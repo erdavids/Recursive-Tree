@@ -1,7 +1,7 @@
 w, h = 1000, 1000
 
 length_depr = .5
-max_depth = 10
+max_depth = 11
 min_length = 30
 
 def draw_line(p, v, l, d, md):
@@ -35,14 +35,14 @@ def setup():
     size(w, h)
     pixelDensity(2)
     
-    background(220, 255, 255)
+    background(220, 245, 245)
     stroke(0)
     strokeWeight(1)
     noFill()
     
     fill(255)
     noStroke()
-    for i in range(15):
+    for i in range(20):
         rect(0, i * 60, w, 10)
     
     stroke(0)
@@ -52,9 +52,10 @@ def setup():
     draw_line((w/2, h), v, h/3, 0, 10)
     
 
-    
-    for i in range(15):
-        rect(0, i * 60, w, 10)
+    noStroke()
+    fill(255)
+    for i in range(20):
+        rect(0, i * 60 + 30, w, 10)
     
     save("Examples/ex.jpg")
     
