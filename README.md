@@ -15,4 +15,4 @@ All of these projects are available with the intention that other people will en
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A6YGXL)
 
 ## Examples:
-<p align="center"><img src="https://github.com/erdavids/Recursive-Tree/Examples/Favorites/light-blue.jpg"></p>
+<p align="center"><img src="https://github.com/erdavids/Recursive-Tree/blob/master/Examples/Favorites/light-blue.jpg"></p>
