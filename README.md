@@ -12,7 +12,6 @@ Other links:
 
 All of these projects are available with the intention that other people will enjoy and learn from them.
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A6YGXL)
 
 ## Examples:
 <p align="center"><img src="https://github.com/erdavids/Recursive-Tree/blob/master/Examples/Favorites/light-blue.jpg"></p>
